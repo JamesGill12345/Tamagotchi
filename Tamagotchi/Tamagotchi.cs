@@ -63,8 +63,8 @@ public class Tamagotchi
     }
 
     public bool GetAlive()
-    {
-        return isAlive;
+    {   
+        return isAlive;   
     }
 
     public void ReduceBoredom()
